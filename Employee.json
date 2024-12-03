@@ -1,0 +1,24 @@
+{
+  "Data": [
+    {
+      "firstname": "Kareena",
+      "lastname": "Kapoor",
+      "maidanname": "Saif",
+      "age": "56",
+      "gender": "Female",
+      "gmail": "Kareena@Kapoor",
+      "amount": "3245",
+      "id": "82a4"
+    },
+    {
+      "id": "25ed",
+      "firstname": "Saif",
+      "lastname": "Ali",
+      "maidanname": "Khan",
+      "age": "56",
+      "gender": "Male",
+      "gmail": "Saif@Khan",
+      "amount": "23145"
+    }
+  ]
+}
